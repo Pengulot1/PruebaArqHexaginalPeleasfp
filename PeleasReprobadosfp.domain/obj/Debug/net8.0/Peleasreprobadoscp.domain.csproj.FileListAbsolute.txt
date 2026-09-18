@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\bin\Debug\net8.0\Peleasreprobadoscp.domain.deps.json
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\bin\Debug\net8.0\Peleasreprobadoscp.domain.runtimeconfig.json
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\bin\Debug\net8.0\Peleasreprobadoscp.domain.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\bin\Debug\net8.0\Peleasreprobadoscp.domain.pdb
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.AssemblyInfo.cs
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\refint\Peleasreprobadoscp.domain.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.pdb
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\Peleasreprobadoscp.domain.genruntimeconfig.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.domain\obj\Debug\net8.0\ref\Peleasreprobadoscp.domain.dll

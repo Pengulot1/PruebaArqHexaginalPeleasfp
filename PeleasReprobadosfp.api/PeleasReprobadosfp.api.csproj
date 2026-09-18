@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Cloud.Firestore" Version="4.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.26">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PeleasReprobadosfp.application\PeleasReprobadosfp.application.csproj" />
+    <ProjectReference Include="..\PeleasReprobadosfp.domain\PeleasReprobadosfp.domain.csproj" />
+    <ProjectReference Include="..\PeleasReprobadosfp.infrastructure\PeleasReprobadosfp.infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="firebase-key.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

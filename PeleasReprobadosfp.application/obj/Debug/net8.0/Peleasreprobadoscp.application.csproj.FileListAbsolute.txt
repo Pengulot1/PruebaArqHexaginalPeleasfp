@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\bin\Debug\net8.0\Peleasreprobadoscp.application.deps.json
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\bin\Debug\net8.0\Peleasreprobadoscp.application.runtimeconfig.json
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\bin\Debug\net8.0\Peleasreprobadoscp.application.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\bin\Debug\net8.0\Peleasreprobadoscp.application.pdb
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\bin\Debug\net8.0\Peleasreprobadoscp.domain.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\bin\Debug\net8.0\Peleasreprobadoscp.domain.pdb
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.AssemblyInfo.cs
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasre.0EEE0865.Up2Date
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\refint\Peleasreprobadoscp.application.dll
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.pdb
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\Peleasreprobadoscp.application.genruntimeconfig.cache
+C:\Users\User\Downloads\reprobadoscp\Peleasreprobadoscp.application\obj\Debug\net8.0\ref\Peleasreprobadoscp.application.dll

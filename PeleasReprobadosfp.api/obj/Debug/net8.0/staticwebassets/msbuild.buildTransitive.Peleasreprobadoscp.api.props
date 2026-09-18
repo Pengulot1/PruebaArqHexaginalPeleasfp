@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Peleasreprobadoscp.api.props" />
+</Project>
