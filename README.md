@@ -1,4 +1,4 @@
-# PeleasFp
+# MinijuegoPeleasFp
 Un proyecto pequeño con arquitectura hexagonal, que usa swagger para sus pruebas.
 se guarda en local las id de los peleadores
 esta a base de solo endpoints 
